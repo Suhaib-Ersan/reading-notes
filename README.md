@@ -1,4 +1,4 @@
-#Growth mindset
+Growth mindset
 -
 What is a _growth mindset_? it's a great mindset to have, a positive and creative one.
 The main point about growth mindset is that: 
@@ -10,7 +10,7 @@ In other words, *just keep trying and you'll reach your goal*, god willing, no m
 >Don't decrease the goal. increase the effort  
 >_unknown_
 
-#On# the other hand, we have what we call a `fixed mindset`, which is the total opposite, this mindset encourages stagnation, avoidance of effort and that your pain doesn't matter. In a way it's a somewhat of a nihilistic worldview.  
+#On # the other hand, we have what we call a `fixed mindset`, which is the total opposite, this mindset encourages stagnation, avoidance of effort and that your pain doesn't matter. In a way it's a somewhat of a nihilistic worldview.  
 
 
 
