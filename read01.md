@@ -1,6 +1,3 @@
-Assalamu alaikum, hayo :wave:
-My name is Suhaib Ersan, I have a bachelor in Graphic Design, and now I'm trying to persue a career in software engineering, not too bad so far.    
-
 <br/><br/>
 Now for the main subject:
 
