@@ -35,3 +35,9 @@ The local Database has three parts:
 - `git add .` stages files to be commited.
 - `git commit -m "message"` command to send a message for why or what you changed.
 - `git push origin main` commit the files.
+
+<br/><br/> 
+<br/><br/>
+
+[Home](https://suhaib-ersan.github.io/reading-notes/) &nbsp;&nbsp;&nbsp;&nbsp;   [read01](https://suhaib-ersan.github.io/reading-notes/read01)  &nbsp;&nbsp;&nbsp;&nbsp; **read02**
+ 

@@ -1,6 +1,3 @@
-<br/><br/>
-Now for the main subject:
-
 # Growth mindset
 What is a _growth mindset_? it's a great mindset to have, a positive and creative one.
 The main point about growth mindset is that: 
@@ -47,6 +44,9 @@ _a great read [How you can benefit from a growth mindset](url)_
 
 <br/><br/> 
 <br/><br/> 
+
+[Home](https://suhaib-ersan.github.io/reading-notes/) &nbsp;&nbsp;&nbsp;&nbsp;  **read01**   &nbsp;&nbsp;&nbsp;&nbsp; [read02](https://suhaib-ersan.github.io/reading-notes/read02)
+
 <br/><br/> 
 <br/><br/> 
 
@@ -105,6 +105,7 @@ _a great read [How you can benefit from a growth mindset](url)_
 
 
 ```
+<br/><br/> 
+<br/><br/> 
 
-
-
+[Home](https://suhaib-ersan.github.io/reading-notes/) &nbsp;&nbsp;&nbsp;&nbsp;  **read01**   &nbsp;&nbsp;&nbsp;&nbsp; [read02](https://suhaib-ersan.github.io/reading-notes/read02)
