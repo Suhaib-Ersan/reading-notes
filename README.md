@@ -1,3 +1,20 @@
+#Growth mindset
+-
+What is a _growth mindset_? it's a great mindset to have, a positive and creative one.
+The main point about growth mindset is that: 
+-talent
+-intelligence 
+Are secondary to effort. 
+In other words, *just keep trying and you'll reach your goal*, god willing, no matter how hard it the subject seems to be at the start, effort brings result.
+
+>Don't decrease the goal. increase the effort  
+>_unknown_
+
+#On# the other hand, we have what we call a `fixed mindset`, which is the total opposite, this mindset encourages stagnation, avoidance of effort and that your pain doesn't matter. In a way it's a somewhat of a nihilistic worldview.  
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Suhaib-Ersan/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
