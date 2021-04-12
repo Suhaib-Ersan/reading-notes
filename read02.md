@@ -1,4 +1,5 @@
 # Git, what is it? and what does it do?
+![Git banner](https://miro.medium.com/max/800/0*XMMzxGh9or2Vbikv.png)
 ## What is Git?
 Git started development around 2005, mainly because of dispute of a DVCS called "BitKeeper" and the devolopers of the project Linux kernal, which made those devolopers start their own open-source DVCS.
 And then we got Git, Git is a DVCS that's mainly designed to make the life of software engineers easier while also being open-sourced, it's available on most of the major PC OS's, including _Linux_, _Windows_ and _Mac_.
@@ -24,3 +25,13 @@ As some of the previous points suggest, Git is designed to make sure loss of dat
 - You can import your older projects into Git.
 - You can also clone a project from a different server.
 - Being able to change many of the smaller settings in the program.
+## Local Repository Structure
+The local Database has three parts:
+- Head, which is the latest version of the files.
+- Index, which is the place for the staging.
+- Working directory, your files are stored here.
+## Commands
+`git status` tells you if what files you have currently are the same as the database or not.
+`git add .` stages files to be commited.
+`git commit -m "message"` command to send a message for why or what you changed.
+`git push origin main` commit the files.
