@@ -20,13 +20,13 @@ It has a few a points that just don't work well:
 
 # So,
 It's important to try a few things:
-1. [x] give your self challanges
-2. [x] learn to accept being challanged
-3. [x] go over the obstacles
-4. [x] you'll fail, it's natural
-5. [x] again, keep putting the effort
-6. [x] accept criticism, as that's how fix what we didn't know needed fixing
-7. [x] rememeber to not compare yourself to others
+1. [x]  give your self challanges
+2. [x]  learn to accept being challanged
+3. [x]  go over the obstacles
+4. [x]  you'll fail, it's natural
+5. [x]  again, keep putting the effort
+6. [x]  accept criticism, as that's how fix what we didn't know needed fixing
+7. [x]  rememeber to not compare yourself to others
 
 <br/><br/> 
 
