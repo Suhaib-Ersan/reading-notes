@@ -27,7 +27,7 @@ Syntax highlighted code block
 ```
 
 example  vvv
-----------
+-
 
 # Header 1
 ## Header 2
