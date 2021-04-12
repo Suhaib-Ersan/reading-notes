@@ -1,3 +1,9 @@
+Assalamu alaikum, hayo :wave:
+My name is Suhaib Ersan, I have a bachelor in Graphic Design, and now I'm trying to persue a career in software engineering, not too bad so far.    
+
+<br/><br/>
+Now for the main subject:
+
 # Growth mindset
 What is a _growth mindset_? it's a great mindset to have, a positive and creative one.
 The main point about growth mindset is that: 
