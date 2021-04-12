@@ -31,7 +31,7 @@ The local Database has three parts:
 - Index, which is the place for the staging.
 - Working directory, your files are stored here.
 ## Commands
-`git status` tells you if what files you have currently are the same as the database or not.
-`git add .` stages files to be commited.
-`git commit -m "message"` command to send a message for why or what you changed.
-`git push origin main` commit the files.
+- `git status` tells you if what files you have currently are the same as the database or not.
+- `git add .` stages files to be commited.
+- `git commit -m "message"` command to send a message for why or what you changed.
+- `git push origin main` commit the files.
