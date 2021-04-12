@@ -46,8 +46,11 @@ failing is part of the proccess | failing is the end of the proccess
 
 ![Grow your mind](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)
 _a great read [How you can benefit from a growth mindset](url)_
+
+<br/><br/> 
 <br/><br/> 
 <<< https://suhaib-ersan.github.io/reading-notes/ >>>
+<br/><br/> 
 <br/><br/> 
 <br/><br/> 
 <br/><br/> 
