@@ -37,7 +37,8 @@ failing is part of the proccess | failing is the end of the proccess
 
 ~~Give up~~ Just keep trying :grin:
 
-_a great read [How you can benefit from a growth mindset_](url) and ![Grow your mind](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)
+![Grow your mind](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)
+_a great read [How you can benefit from a growth mindset_](url)
 
 
 
