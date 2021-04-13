@@ -39,7 +39,9 @@ The local Database has three parts:
 <br/><br/> 
 <br/><br/>
 
-### [Home](https://suhaib-ersan.github.io/reading-notes/) &nbsp;&nbsp;&nbsp;&nbsp;   [read01](https://suhaib-ersan.github.io/reading-notes/read01)  &nbsp;&nbsp;&nbsp;&nbsp; **read02**
+| [Home](https://suhaib-ersan.github.io/reading-notes/) | [read01](https://suhaib-ersan.github.io/reading-notes/read01) | **read02** | [read03](https://suhaib-ersan.github.io/reading-notes/read03) |
+|-|
+
  
 
  <img src="https://miro.medium.com/max/800/0*XMMzxGh9or2Vbikv.png" alt="drawing" width="50%"/>

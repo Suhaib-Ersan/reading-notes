@@ -45,7 +45,8 @@ _a great read [How you can benefit from a growth mindset](url)_
 <br/><br/> 
 <br/><br/> 
 
-### [Home](https://suhaib-ersan.github.io/reading-notes/) &nbsp;&nbsp;&nbsp;&nbsp;  **read01**   &nbsp;&nbsp;&nbsp;&nbsp; [read02](https://suhaib-ersan.github.io/reading-notes/read02)
+| [Home](https://suhaib-ersan.github.io/reading-notes/) | **read01** | [read02](https://suhaib-ersan.github.io/reading-notes/read02) | [read03](https://suhaib-ersan.github.io/reading-notes/read03) |
+|-|
 
 <br/><br/> 
 <br/><br/> 
@@ -108,4 +109,5 @@ _a great read [How you can benefit from a growth mindset](url)_
 <br/><br/> 
 <br/><br/> 
 
-### [Home](https://suhaib-ersan.github.io/reading-notes/) &nbsp;&nbsp;&nbsp;&nbsp;  **read01**   &nbsp;&nbsp;&nbsp;&nbsp; [read02](https://suhaib-ersan.github.io/reading-notes/read02)
+| [Home](https://suhaib-ersan.github.io/reading-notes/) | **read01** | [read02](https://suhaib-ersan.github.io/reading-notes/read02) | [read03](https://suhaib-ersan.github.io/reading-notes/read03) |
+|-|
