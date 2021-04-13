@@ -28,11 +28,13 @@ Sites front-end are usally made from three components:
 All websites use HTML and CSS, But more complex sites add more technologies to use.
 HTML tells the browser how to read the text, which text should be big and which should be small.
 HTML uses tags or elements, some of them are:
-`<html>` | tells the browser that what's in it is HTML code.
-`<body>` | tells the browser that what's in it is what should be shown to the user.
-`<h1>` | tells the browser that this is the main (and the biggest) heading
-`<p>` | tells the browser that this is a paragraph (so, normal size text).
--|-
+
+| `<html>` | tells the browser that what's in it is HTML code. |
+| `<body>` | tells the browser that what's in it is what should be shown to the user. |
+| `<h1>` | tells the browser that this is the main (and the biggest) heading. |
+| `<p>` | tells the browser that this is a paragraph (so, normal size text). |
+|-|-|
+
 A great way to learn, is by checking the source code of sites you often visit, you'll be able to see how things work, to an extent.
 
 
