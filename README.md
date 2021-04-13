@@ -11,4 +11,4 @@ Assalamu alaikum, hayo 👋 My name is Suhaib Ersan, I have a bachelor in Graphi
 <br/><br/> 
 <br/><br/> 
 
-[Go to the unrendered Github page](https://suhaib-ersan.github.io/reading-notes/)dd
+[Go to the unrendered Github page](https://suhaib-ersan.github.io/reading-notes/)
