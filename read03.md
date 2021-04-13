@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Git, what is it? and what does it do?
 ![Git banner](https://miro.medium.com/max/800/0*XMMzxGh9or2Vbikv.png)
 ## What is Git?
@@ -41,20 +40,4 @@ The local Database has three parts:
 <br/><br/>
 
 | [Home](https://suhaib-ersan.github.io/reading-notes/) | [read01](https://suhaib-ersan.github.io/reading-notes/read01) | [read02](https://suhaib-ersan.github.io/reading-notes/read02) | **read03** | [read04](https://suhaib-ersan.github.io/reading-notes/read04) |
-|-|-|-|-|
-
- 
-
- <img src="https://miro.medium.com/max/800/0*XMMzxGh9or2Vbikv.png" alt="drawing" width="50%"/>
-=======
-
-
-<br></br>
-<br></br>
-
-
-| [Home](https://suhaib-ersan.github.io/reading-notes/) | [read01](https://suhaib-ersan.github.io/reading-notes/read01) | [read02](https://suhaib-ersan.github.io/reading-notes/read02) | **read03** |
-|-|
-
-:
->>>>>>> 5850636d7259306674af3a6f6c172a333cddb0b1
+|-|-|-|-|-|
