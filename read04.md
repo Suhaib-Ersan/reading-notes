@@ -13,9 +13,9 @@ First things first, you need to know who's going to visit the site, aka your tar
 All in All, it's about getting _why_ people visit this site, why do the users who keep revisitng keep revisiting? what's their motivation? what's their goal? and it's about how to get more people to visit, and keep visiting.
 You **need** to know things like _what's their goal?, what should the site show?, what should be the site's hierarchy?, do they revisit?._
 Afterwards, you can create the site map >
-![Example site map](https://imgur.com/LWCMBob)
+![Example site map](https://i.imgur.com/LWCMBob.png)
 and then the wireframe (i.e. the sketches). >
-![Imgur](https://imgur.com/OkTa48i)
+![Imgur](https://i.imgur.com/qWDqEN6.png)
 ## Structure
 Sites front-end are usally made from three components:
 - HTML
@@ -47,12 +47,9 @@ Also, some characters that are used by HTML (e.g. `<` and `>`) can't be used nor
 
 
 
-
-
-
 <br></br>
 <br></br>
 
 
 | [Home](https://suhaib-ersan.github.io/reading-notes/) | [read01](https://suhaib-ersan.github.io/reading-notes/read01) | [read02](https://suhaib-ersan.github.io/reading-notes/read02) | [read03](https://suhaib-ersan.github.io/reading-notes/read03) | **read04** |
-|-|-|-|-|
+|-|-|-|-|-|
