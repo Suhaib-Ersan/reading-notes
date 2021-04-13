@@ -29,7 +29,7 @@ All websites use HTML and CSS, But more complex sites add more technologies to u
 HTML tells the browser how to read the text, which text should be big and which should be small.
 HTML uses tags or elements, some of them are:
 
-| `<html>` | tells the browser that what's in it is HTML code. |
+| `<html>` | tells the browser that what's in it is HTML code. | 
 | `<body>` | tells the browser that what's in it is what should be shown to the user. |
 | `<h1>` | tells the browser that this is the main (and the biggest) heading. |
 | `<p>` | tells the browser that this is a paragraph (so, normal size text). |
