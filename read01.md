@@ -31,10 +31,10 @@ It's important to try a few things:
 <br/><br/> 
 
 #### A quick comparison:
-Growth mindset | fixed mindset
------------- | -------------
-keep putting effort | give up after trying once
-failing is part of the proccess | failing is the end of the proccess
+|Growth mindset | fixed mindset|
+|---------------|--------------|
+|keep putting effort | give up after trying once|
+|failing is part of the proccess | failing is the end of the proccess|
 
 ~~Give up~~ Just keep trying :grin:
 

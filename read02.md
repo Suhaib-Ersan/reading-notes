@@ -41,3 +41,5 @@ The local Database has three parts:
 
 ### [Home](https://suhaib-ersan.github.io/reading-notes/) &nbsp;&nbsp;&nbsp;&nbsp;   [read01](https://suhaib-ersan.github.io/reading-notes/read01)  &nbsp;&nbsp;&nbsp;&nbsp; **read02**
  
+
+ <img src="https://miro.medium.com/max/800/0*XMMzxGh9or2Vbikv.png" alt="drawing" width="50%"/>
