@@ -31,6 +31,6 @@ You can choose from a few default HTML themes on GitHub, but for the best result
 <br></br>
 
 
-| [Home](https://suhaib-ersan.github.io/reading-notes/) | **read01** | [read01](https://suhaib-ersan.github.io/reading-notes/read01) | [read03](https://suhaib-ersan.github.io/reading-notes/read03) | [read04](https://suhaib-ersan.github.io/reading-notes/read04) |
-|-|-|-|-|-|
+| [Home](https://suhaib-ersan.github.io/reading-notes/) | **read01** | [read01](https://suhaib-ersan.github.io/reading-notes/read01) | [read03](https://suhaib-ersan.github.io/reading-notes/read03) | [read04](https://suhaib-ersan.github.io/reading-notes/read04) | [read05](https://suhaib-ersan.github.io/reading-notes/read05) |
+|-|-|-|-|-|-|
 
