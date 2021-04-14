@@ -37,5 +37,5 @@ This data type only has two states: true or false, and is used to know the resul
 <br></br>
 <br></br>
 
-| [Home](https://suhaib-ersan.github.io/reading-notes/) | [read01](https://suhaib-ersan.github.io/reading-notes/read01) | [read02](https://suhaib-ersan.github.io/reading-notes/read02) | [read03](https://suhaib-ersan.github.io/reading-notes/read03) | [read04](https://suhaib-ersan.github.io/reading-notes/read04) | **read05** |
-|-|-|-|-|-|-|
+| [Home](https://suhaib-ersan.github.io/reading-notes/) | [read01](https://suhaib-ersan.github.io/reading-notes/read01) | [read02](https://suhaib-ersan.github.io/reading-notes/read02) | [read03](https://suhaib-ersan.github.io/reading-notes/read03) | [read04](https://suhaib-ersan.github.io/reading-notes/read04) | **read05** | [read06](https://suhaib-ersan.github.io/reading-notes/read06) |
+|-|-|-|-|-|-|-|
