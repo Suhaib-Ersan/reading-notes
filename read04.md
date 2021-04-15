@@ -13,9 +13,9 @@ First things first, you need to know who's going to visit the site, aka your tar
 All in All, it's about getting _why_ people visit this site, why do the users who keep revisitng keep revisiting? what's their motivation? what's their goal? and it's about how to get more people to visit, and keep visiting.
 You **need** to know things like _what's their goal?, what should the site show?, what should be the site's hierarchy?, do they revisit?._
 Afterwards, you can create the site map >
-<br></br>
+<br/><br/> 
 ![Example site map](https://i.imgur.com/LWCMBob.png) 
-<br></br>
+<br/><br/> 
 and then the wireframe (i.e. the sketches). >
 
 ![Imgur](https://i.imgur.com/qWDqEN6.png)
