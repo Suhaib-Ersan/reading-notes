@@ -43,8 +43,7 @@ The OS manages how software gets to the hardware, it loads programs you run into
 Computers have the potential, but without the hardwork of developers, it won't do anything. 
 
 <br/><br/> 
-<br/><br/> 
-<br/><br/> 
+<br/><br/>  
 
 
 

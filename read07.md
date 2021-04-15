@@ -44,8 +44,7 @@ This loop is similar to the `while` loop, but there's one key difference, this l
 
 
 <br/><br/> 
-<br/><br/> 
-<br/><br/> 
+<br/><br/>  
 
 
 

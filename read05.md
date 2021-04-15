@@ -35,8 +35,7 @@ This data type only has two states: true or false, and is used to know the resul
 
 
 <br/><br/> 
-<br/><br/> 
-<br/><br/> 
+<br/><br/>  
 
 
 |Menu|

@@ -54,8 +54,7 @@ Also, some characters that are used by HTML (e.g. `<` and `>`) can't be used nor
 
 
 <br/><br/> 
-<br/><br/> 
-<br/><br/> 
+<br/><br/>  
 
 
 

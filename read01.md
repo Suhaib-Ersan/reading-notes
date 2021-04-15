@@ -31,7 +31,6 @@ You can choose from a few default HTML themes on GitHub, but for the best result
 
 <br/><br/> 
 <br/><br/> 
-<br/><br/> 
 
 
 
