@@ -17,7 +17,7 @@ and unordered lists:
 Make different size headers
 # header 1
 ### header 2
-###### header
+###### header 3
 Or maybe even
 > quote someone
 and much more, it's pretty easy to get the hang of, but can be pretty useful to learn. :grin:
