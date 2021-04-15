@@ -42,8 +42,10 @@ That's the job is for the OS, or the Operating System, most notably:
 The OS manages how software gets to the hardware, it loads programs you run into memory and sometimes takes your input, so the program knows what to do. 
 Computers have the potential, but without the hardwork of developers, it won't do anything. 
 
-<br></br>
-<br></br>
+<br/><br/> 
+<br/><br/> 
+<br/><br/> 
+
 
 
 | [Home](https://suhaib-ersan.github.io/reading-notes/) | [read01](https://suhaib-ersan.github.io/reading-notes/read01) | [read02](https://suhaib-ersan.github.io/reading-notes/read02) | [read03](https://suhaib-ersan.github.io/reading-notes/read03) | [read04](https://suhaib-ersan.github.io/reading-notes/read04) | [read05](https://suhaib-ersan.github.io/reading-notes/read05)| **read06** |
