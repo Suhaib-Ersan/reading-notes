@@ -26,6 +26,19 @@ Which is called a `logical or`, this one just checks of either of the items on t
 - !
 This one doesn't compare two items, it only takes one item, and then flips it.
 # Loops
+A loop, as the name suggests, is a code block that keeps on re-running and looping until a certain condition is fulfilled.
+Common types of loops include:
+- `for`
+This runs the loop for a set amount of times, and is the most common type of loop, the condition is a number counter.
+- `while`
+This is used when you don't know how many times the loop should run, the condition here can be different things than just a counter.
+- `do while`
+This loop is similar to the `while` loop, but there's one key difference, this loop will always run _at least_ once, contrary to the `while` loop which can sometimes (depending on the code) not run at all.
+![loop pic](https://i.imgur.com/IlRqttS.png)
+
+
+
+
 
 
 
