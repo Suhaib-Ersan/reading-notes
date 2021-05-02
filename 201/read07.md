@@ -77,3 +77,14 @@ function Hotel (name, rooms, booked) {
 }
 ```
 ###### example from Jon Duckett JS book
+
+Then using this function, we can create object easily, example :
+
+```
+var quayHotel = new Hotel('Quay', 40, 25);
+var parkHotel = new Hotel('Park', 120, 77);
+```
+###### example from Jon Duckett JS book
+
+This will create two new objects, one named quayHotel and one named parkHotel, with different values to their properties.
+For example, quayHotel will have it's name be 'Quay', and it's rooms number be 40 rooms, 25 of which are booked.
