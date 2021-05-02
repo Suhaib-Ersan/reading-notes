@@ -9,7 +9,7 @@
 
 |201| [Go back Home](https://suhaib-ersan.github.io/reading-notes/) |
 |-|-|
-|read#|name and link|
+| read## | Name and Link |
 | read01 | [Introductory HTML and JavaScript](https://suhaib-ersan.github.io/reading-notes/201/read01) |
 | read02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://suhaib-ersan.github.io/reading-notes/201/read02) |
 | read03 | [HTML Lists, CSS Boxes, JS Control Flow](https://suhaib-ersan.github.io/reading-notes/201/read03) |
