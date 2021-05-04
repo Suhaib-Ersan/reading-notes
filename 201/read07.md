@@ -106,7 +106,7 @@ For example, quayHotel will have it's name be 'Quay', and it's rooms number be 4
 | read05 | [HTML Images; CSS Color & Text](https://suhaib-ersan.github.io/reading-notes/201/read05) |
 | read06 | [JS Object Literals; The DOM](https://suhaib-ersan.github.io/reading-notes/201/read06) |
 | **read07** | **HTML Tables; JS Constructor Functions** |
-| read08 | [](https://suhaib-ersan.github.io/reading-notes/201/read08) |
+| read08 | [More CSS Layout](https://suhaib-ersan.github.io/reading-notes/201/read08) |
 | read09 | [](https://suhaib-ersan.github.io/reading-notes/201/read09) |
 | read10 | [](https://suhaib-ersan.github.io/reading-notes/201/read10) |
 | read11 | [](https://suhaib-ersan.github.io/reading-notes/201/read11) |
