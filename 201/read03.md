@@ -1,5 +1,52 @@
 # HTML Lists, CSS Boxes, JS Control Flow
 
+## Lists
+
+>There are lots of occasions when we need to use lists. HTML provides us with three different types:
+>
+>* Ordered lists are lists where each item in the list is numbered. For example, the list might be a set of steps for a recipe that must be performed in order, or a legal contract where each point needs to be identified by a section number.
+>* Unordered lists are lists that begin with a bullet point (rather than characters that indicate order).
+>* Definition lists are made up of a set of terms along with the definitions for each of those terms.
+- Jon Duckett
+
+### Ordered Lists
+
+You first have to write an `<ol>` element.
+And then for each list item you'd have to create `<li>` element.
+Example:
+
+```
+<ol>
+    <li>Chop potatoes into quarters</li>
+    <li>Simmer in salted water for 15-20
+        minutes until tender</li>
+    <li>Heat milk, butter and nutmeg</li>
+    <li>Drain potatoes and mash</li>
+    <li>Mix in the milk mixture</li>
+</ol>
+```
+
+and this would appear like this:
+
+<ol>
+    <li>Chop potatoes into quarters</li>
+    <li>Simmer in salted water for 15-20
+        minutes until tender</li>
+    <li>Heat milk, butter and nutmeg</li>
+    <li>Drain potatoes and mash</li>
+    <li>Mix in the milk mixture</li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
 
 
 <br/><br/> 
