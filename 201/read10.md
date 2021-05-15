@@ -26,7 +26,7 @@ There are seven types of built-in error objects in JavaScript:
 | ReferenceError | Tried to reference a variable that is not declared/within scope |
 | TypeError | An unexpected data type that cannot be coerced |
 | Range Error | Numbers not in acceptable range |
-| URI Error | encodeURI (), decodeuri(), and similar methods used incorrectly |
+| URI Error | encodeURI (), decodeURI(), and similar methods used incorrectly |
 | EvalError | eval () function used incorrectly |
 
 
