@@ -104,9 +104,9 @@ Functions make your code easier to read, and make sense. also makes editing the 
 | read06 | [JS Object Literals; The DOM](https://suhaib-ersan.github.io/reading-notes/201/read06) |
 | read07 | [HTML Tables; JS Constructor Functions](https://suhaib-ersan.github.io/reading-notes/201/read07) |
 | read08 | [More CSS Layout](https://suhaib-ersan.github.io/reading-notes/201/read08) |
-| read09 | [](https://suhaib-ersan.github.io/reading-notes/201/read09) |
-| read10 | [](https://suhaib-ersan.github.io/reading-notes/201/read10) |
-| read11 | [](https://suhaib-ersan.github.io/reading-notes/201/read11) |
+| read09 | [Forms and JS Events](https://suhaib-ersan.github.io/reading-notes/201/read09) |
+| read10 | [Debugging](https://suhaib-ersan.github.io/reading-notes/201/read10) |
+| read11 | [Audio, Video, Images](https://suhaib-ersan.github.io/reading-notes/201/read11) |
 | read12 | [](https://suhaib-ersan.github.io/reading-notes/201/read12) |
 | read13 | [](https://suhaib-ersan.github.io/reading-notes/201/read13) |
 | read14 | [](https://suhaib-ersan.github.io/reading-notes/201/read14) |
