@@ -1,16 +1,14 @@
-Assalamu alaikum, hayo 👋 My name is Suhaib Ersan, I have a bachelor in Graphic Design, and now I'm trying to persue a career in software engineering, not too bad so far.
+# Docs for the HTML <canvas> Element & Chart.js
 
-# Code 102 Reading Notes
 
-|102|
-|-|-|-|-|-|-|-|-|-|-|
-| **Home** | [read01](https://suhaib-ersan.github.io/reading-notes/read01) | [read02](https://suhaib-ersan.github.io/reading-notes/read02) | [read03](https://suhaib-ersan.github.io/reading-notes/read03) | [read04](https://suhaib-ersan.github.io/reading-notes/read04) | [read05](https://suhaib-ersan.github.io/reading-notes/read05) | [read06](https://suhaib-ersan.github.io/reading-notes/read06) | [read07](https://suhaib-ersan.github.io/reading-notes/read07)
 
-<br/><br/>
 
-# Code 201 Reading Notes
+<br/><br/> 
+<br/><br/>  
 
-|201| **Go back Home** |
+
+
+|201| [Go back Home](https://suhaib-ersan.github.io/reading-notes/) |
 |-|-|
 | read## | Name and Link |
 | read01 | [Introductory HTML and JavaScript](https://suhaib-ersan.github.io/reading-notes/201/read01) |
@@ -19,24 +17,12 @@ Assalamu alaikum, hayo 👋 My name is Suhaib Ersan, I have a bachelor in Graphi
 | read04 | [HTML Links, CSS Layout, JS Functions](https://suhaib-ersan.github.io/reading-notes/201/read04) |
 | read05 | [HTML Images; CSS Color & Text](https://suhaib-ersan.github.io/reading-notes/201/read05) |
 | read06 | [JS Object Literals; The DOM](https://suhaib-ersan.github.io/reading-notes/201/read06) |
-| read07 | [HTML Tables; JS Constructor Functions](https://suhaib-ersan.github.io/reading-notes/201/read07) |
+| read07 | [HTML Tables; JS Constructor Functions](https://suhaib-ersan.github.io/reading-notes/201/read07)) |
 | read08 | [More CSS Layout](https://suhaib-ersan.github.io/reading-notes/201/read08) |
 | read09 | [Forms and JS Events](https://suhaib-ersan.github.io/reading-notes/201/read09) |
 | read10 | [Debugging](https://suhaib-ersan.github.io/reading-notes/201/read10) |
-| read11 | [Audio, Video, Images](https://suhaib-ersan.github.io/reading-notes/201/read11) |
+| read11 | Audio, Video, Images(https://suhaib-ersan.github.io/reading-notes/201/read11) |
 | read12 | [Docs for the HTML <canvas> Element & Chart.js](https://suhaib-ersan.github.io/reading-notes/201/read12) |
 | read13 | [](https://suhaib-ersan.github.io/reading-notes/201/read13) |
 | read14 | [](https://suhaib-ersan.github.io/reading-notes/201/read14) |
 | read15 | [](https://suhaib-ersan.github.io/reading-notes/201/read15) |
-
-
-
-
-<br/><br/> 
-
-
-<br/><br/>  
-
-[Go to the live Github page](https://suhaib-ersan.github.io/reading-notes/)
-
-[Go to the unrendered Github page](https://github.com/Suhaib-Ersan/reading-notes)

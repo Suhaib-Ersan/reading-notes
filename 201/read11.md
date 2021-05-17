@@ -133,7 +133,7 @@ A tracking code is provided by Google Analytics for each website you are trackin
 | read09 | [Forms and JS Events](https://suhaib-ersan.github.io/reading-notes/201/read09) |
 | read10 | [Debugging](https://suhaib-ersan.github.io/reading-notes/201/read10) |
 | **read11** | **Audio, Video, Images** |
-| read12 | [](https://suhaib-ersan.github.io/reading-notes/201/read12) |
+| read12 | [Docs for the HTML <canvas> Element & Chart.js](https://suhaib-ersan.github.io/reading-notes/201/read12) |
 | read13 | [](https://suhaib-ersan.github.io/reading-notes/201/read13) |
 | read14 | [](https://suhaib-ersan.github.io/reading-notes/201/read14) |
 | read15 | [](https://suhaib-ersan.github.io/reading-notes/201/read15) |
