@@ -107,7 +107,7 @@ And they look pretty nice:
 | read04 | [HTML Links, CSS Layout, JS Functions](https://suhaib-ersan.github.io/reading-notes/201/read04) |
 | read05 | [HTML Images; CSS Color & Text](https://suhaib-ersan.github.io/reading-notes/201/read05) |
 | read06 | [JS Object Literals; The DOM](https://suhaib-ersan.github.io/reading-notes/201/read06) |
-| read07 | [HTML Tables; JS Constructor Functions](https://suhaib-ersan.github.io/reading-notes/201/read07)) |
+| read07 | [HTML Tables; JS Constructor Functions](https://suhaib-ersan.github.io/reading-notes/201/read07) |
 | read08 | [More CSS Layout](https://suhaib-ersan.github.io/reading-notes/201/read08) |
 | read09 | [Forms and JS Events](https://suhaib-ersan.github.io/reading-notes/201/read09) |
 | read10 | [Debugging](https://suhaib-ersan.github.io/reading-notes/201/read10) |
