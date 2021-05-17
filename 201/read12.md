@@ -1,5 +1,95 @@
 # Docs for the HTML <canvas> Element & Chart.js
 
+## Chart.js
+
+Charts are great tools to display information in a more readable (and often much better looking) way. ALso charts are often better than showing the data in a table.
+And a great way to make charts in JavaScript is what's called `Charts.js`, which is an open source plugin that uses HTML5's built-in `<canvas>` element to draw charts. It's a pretty well-known plugin, and because of that it has a lot of support, and is well documented.  
+
+There are two ways to use it, first one is by downloading it and then use the JS file it provides, and the second one is simply using that same JS file, just through a web URL instead of using the file directly.
+
+First you need to add a `<canvas>` tag to your HTML and give it an ID. Then you need to reference the `Chart.js` file, usually at the end of your `<body>` tag, but before any script that would use it.
+
+it'd look something like this:
+
+```
+<body>
+    <canvas id="myChart" width="400" height="400"></canvas>
+
+    <script script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="app.js"></script>
+</body>
+```
+
+Now you open `app.js` or add a script tag after our `Chart.js` reference, and copy a demo code from the `Chart.js` docs and paste it there.
+
+It'll look something like:
+
+```
+var ctx = document.getElementById('myChart').getContext('2d');
+var myChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+        datasets: [{
+            label: '# of Votes',
+            data: [12, 19, 3, 5, 2, 3],
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(54, 162, 235, 0.2)',
+                'rgba(255, 206, 86, 0.2)',
+                'rgba(75, 192, 192, 0.2)',
+                'rgba(153, 102, 255, 0.2)',
+                'rgba(255, 159, 64, 0.2)'
+            ],
+            borderColor: [
+                'rgba(255, 99, 132, 1)',
+                'rgba(54, 162, 235, 1)',
+                'rgba(255, 206, 86, 1)',
+                'rgba(75, 192, 192, 1)',
+                'rgba(153, 102, 255, 1)',
+                'rgba(255, 159, 64, 1)'
+            ],
+            borderWidth: 1
+        }]
+    },
+    options: {
+        scales: {
+            y: {
+                beginAtZero: true
+            }
+        }
+    }
+});
+```
+
+This code should give you a Chart that looks similar to this:
+<br />
+
+[barChart](https://i.imgur.com/4gdIXjP.png)
+
+<br />
+
+And then change the values to whatever you want, and you have a basic great looking chart.
+
+You can also do a line, pie, doughnut and others.
+
+And they look pretty nice:
+
+[PieChart](https://i.imgur.com/Xb17DBT.png) [DoughnutChart](https://i.imgur.com/GZaIaBL.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
