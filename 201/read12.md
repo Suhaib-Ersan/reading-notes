@@ -65,7 +65,7 @@ var myChart = new Chart(ctx, {
 This code should give you a Chart that looks similar to this:
 <br />
 
-[barChart](https://i.imgur.com/4gdIXjP.png)
+![barChart](https://i.imgur.com/4gdIXjP.png)
 
 <br />
 
@@ -75,7 +75,7 @@ You can also do a line, pie, doughnut and others.
 
 And they look pretty nice:
 
-[PieChart](https://i.imgur.com/Xb17DBT.png) [DoughnutChart](https://i.imgur.com/GZaIaBL.png)
+![PieChart](https://i.imgur.com/Xb17DBT.png) ![DoughnutChart](https://i.imgur.com/GZaIaBL.png)
 
 
 
