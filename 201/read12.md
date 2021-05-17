@@ -75,7 +75,7 @@ You can also do a line, pie, doughnut and others.
 
 And they look pretty nice:
 
-<img src="https://i.imgur.com/Xb17DBT.png" width="400px" alt="PieChart"><img src="https://i.imgur.com/GZaIaBL.png" width="400px" alt="DoughnutChart">
+<img src="https://i.imgur.com/Xb17DBT.png" width="50%" alt="PieChart"><img src="https://i.imgur.com/GZaIaBL.png" width="50%" alt="DoughnutChart">
 
 
 
