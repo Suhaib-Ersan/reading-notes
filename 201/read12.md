@@ -1,4 +1,4 @@
-# Docs for the HTML `<canvas>` Element & Chart.js
+# Docs for the HTML Canvas Element & Chart.js
 
 ## Chart.js
 
@@ -82,6 +82,7 @@ And they look pretty nice:
 
 The `<canvas>` element is an HTML5 element, meaning it's relatively new.
 > At first sight a `<canvas>` looks like the `<img>` element, with the only clear difference being that it doesn't have the src and alt attributes. Indeed, the `<canvas>` element has only two attributes, width and height. These are both optional and can also be set using DOM properties. When no width and height attributes are specified, the canvas will initially be 300 pixels wide and 150 pixels high. The element can be sized arbitrarily by CSS, but during rendering the image is scaled to fit its layout size: if the CSS sizing doesn't respect the ratio of the initial canvas, it will appear distorted.
+>
 > -MDN Web Docs
 
 
@@ -117,7 +118,7 @@ The `<canvas>` element is an HTML5 element, meaning it's relatively new.
 | read09 | [Forms and JS Events](https://suhaib-ersan.github.io/reading-notes/201/read09) |
 | read10 | [Debugging](https://suhaib-ersan.github.io/reading-notes/201/read10) |
 | read11 | [Audio, Video, Images](https://suhaib-ersan.github.io/reading-notes/201/read11) |
-| read12 | [Docs for the HTML `<canvas>` Element & Chart.js](https://suhaib-ersan.github.io/reading-notes/201/read12) |
+| read12 | [Docs for the HTML Canvas Element & Chart.js](https://suhaib-ersan.github.io/reading-notes/201/read12) |
 | read13 | [](https://suhaib-ersan.github.io/reading-notes/201/read13) |
 | read14 | [](https://suhaib-ersan.github.io/reading-notes/201/read14) |
 | read15 | [](https://suhaib-ersan.github.io/reading-notes/201/read15) |
