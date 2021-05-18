@@ -108,6 +108,6 @@ Functions make your code easier to read, and make sense. also makes editing the 
 | read10 | [Debugging](https://suhaib-ersan.github.io/reading-notes/201/read10) |
 | read11 | [Audio, Video, Images](https://suhaib-ersan.github.io/reading-notes/201/read11) |
 | read12 | [Docs for the HTML <canvas> Element & Chart.js](https://suhaib-ersan.github.io/reading-notes/201/read12) |
-| read13 | [](https://suhaib-ersan.github.io/reading-notes/201/read13) |
+| read13 | [Local Storage](https://suhaib-ersan.github.io/reading-notes/201/read13) |
 | read14 | [](https://suhaib-ersan.github.io/reading-notes/201/read14) |
 | read15 | [](https://suhaib-ersan.github.io/reading-notes/201/read15) |
