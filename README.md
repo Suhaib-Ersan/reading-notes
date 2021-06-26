@@ -1,14 +1,16 @@
+# Reading Notes
+
 Assalamu alaikum, hayo 👋 My name is Suhaib Ersan, I have a bachelor in Graphic Design, and now I'm trying to persue a career in software engineering, not too bad so far.
 
-# Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
-|102|
+|102| **Go back Home** |
 |-|-|-|-|-|-|-|-|-|-|
 | **Home** | [read01](https://suhaib-ersan.github.io/reading-notes/read01) | [read02](https://suhaib-ersan.github.io/reading-notes/read02) | [read03](https://suhaib-ersan.github.io/reading-notes/read03) | [read04](https://suhaib-ersan.github.io/reading-notes/read04) | [read05](https://suhaib-ersan.github.io/reading-notes/read05) | [read06](https://suhaib-ersan.github.io/reading-notes/read06) | [read07](https://suhaib-ersan.github.io/reading-notes/read07)
 
 <br/><br/>
 
-# Code 201 Reading Notes
+## Code 201 - Foundations of Software Development
 
 |201| **Go back Home** |
 |-|-|
@@ -28,6 +30,17 @@ Assalamu alaikum, hayo 👋 My name is Suhaib Ersan, I have a bachelor in Graphi
 | read13 | [Local Storage](https://suhaib-ersan.github.io/reading-notes/201/read13) |
 | read14 | [](https://suhaib-ersan.github.io/reading-notes/201/read14) |
 | read15 | [](https://suhaib-ersan.github.io/reading-notes/201/read15) |
+
+
+
+## Code 301 - Intermediate Software Development
+
+|301| **Go back Home** |
+|-|-|
+## Code 401 - Advanced Software Development
+
+|401| **Go back Home** |
+|-|-|
 
 
 
