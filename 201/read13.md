@@ -1,3 +1,24 @@
+# Local Storage
+
+## What is local Storage?
+
+ For web applications, Local Storage refers to data that websites keeps on your machine after you visit them, and this data usually gets used later when you visit those sites again, this is very similar to what's known as "Cookies".
+ Native applications have edge over web applications in this regard, as using the data in your system is pretty simple for native ones, as well as using databases, maybe even create your own file format, or other types of solutions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
