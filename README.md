@@ -16,20 +16,20 @@ Assalamu alaikum, hayo 👋 My name is Suhaib Ersan, I have a bachelor in Graphi
 |-|-|
 | read## | Name and Link |
 | read01 | [Introductory HTML and JavaScript](https://suhaib-ersan.github.io/reading-notes/201/read01) |
-| read02 | [State and Props](https://suhaib-ersan.github.io/reading-notes/201/read02) |
-| read03 | [Passing Functions as Props](https://suhaib-ersan.github.io/reading-notes/201/read03) |
-| read04 | [React and Forms](https://suhaib-ersan.github.io/reading-notes/201/read04) |
-| read05 | [Putting it all together](https://suhaib-ersan.github.io/reading-notes/201/read05) |
-| read06 | [NODE.JS](https://suhaib-ersan.github.io/reading-notes/201/read06) |
-| read07 | [REST](https://suhaib-ersan.github.io/reading-notes/201/read07) |
-| read08 | [APIs](https://suhaib-ersan.github.io/reading-notes/201/read08) |
-| read09 | [FUNCTIONAL PROGRAMMING](https://suhaib-ersan.github.io/reading-notes/201/read09) |
-| read10 | [In memory storage](https://suhaib-ersan.github.io/reading-notes/201/read10) |
-| read11 | [Authentication](https://suhaib-ersan.github.io/reading-notes/201/read11) |
-| read12 | [Mongo and Mongoose](https://suhaib-ersan.github.io/reading-notes/201/read12) |
-| read13 | [CRUD](https://suhaib-ersan.github.io/reading-notes/201/read13) |
-| read14 | [Project Ideas](https://suhaib-ersan.github.io/reading-notes/201/read14) |
-| read15 | [Project Kickoff](https://suhaib-ersan.github.io/reading-notes/201/read15) |
+| read02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://suhaib-ersan.github.io/reading-notes/201/read02) |
+| read03 | [HTML Lists, CSS Boxes, JS Control Flow](https://suhaib-ersan.github.io/reading-notes/201/read03) |
+| read04 | [HTML Links, CSS Layout, JS Functions](https://suhaib-ersan.github.io/reading-notes/201/read04) |
+| read05 | [HTML Images; CSS Color & Text](https://suhaib-ersan.github.io/reading-notes/201/read05) |
+| read06 | [JS Object Literals; The DOM](https://suhaib-ersan.github.io/reading-notes/201/read06) |
+| read07 | [HTML Tables; JS Constructor Functions](https://suhaib-ersan.github.io/reading-notes/201/read07) |
+| read08 | [More CSS Layout](https://suhaib-ersan.github.io/reading-notes/201/read08) |
+| read09 | [Forms and JS Events](https://suhaib-ersan.github.io/reading-notes/201/read09) |
+| read10 | [Debugging](https://suhaib-ersan.github.io/reading-notes/201/read10) |
+| read11 | [Audio, Video, Images](https://suhaib-ersan.github.io/reading-notes/201/read11) |
+| read12 | [Docs for the HTML `<canvas>` Element & Chart.js](https://suhaib-ersan.github.io/reading-notes/201/read12) |
+| read13 | [Local Storage](https://suhaib-ersan.github.io/reading-notes/201/read13) |
+| read14 | [](https://suhaib-ersan.github.io/reading-notes/201/read14) |
+| read15 | [](https://suhaib-ersan.github.io/reading-notes/201/read15) |
 
 
 
@@ -38,20 +38,20 @@ Assalamu alaikum, hayo 👋 My name is Suhaib Ersan, I have a bachelor in Graphi
 |301| **Go back Home** |
 |-|-|
 | read01 | [Introduction to React and Components](https://suhaib-ersan.github.io/reading-notes/301/read01) |
-| read02 | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://suhaib-ersan.github.io/reading-notes/301/read02) |
-| read03 | [HTML Lists, CSS Boxes, JS Control Flow](https://suhaib-ersan.github.io/reading-notes/301/read03) |
-| read04 | [HTML Links, CSS Layout, JS Functions](https://suhaib-ersan.github.io/reading-notes/301/read04) |
-| read05 | [HTML Images; CSS Color & Text](https://suhaib-ersan.github.io/reading-notes/301/read05) |
-| read06 | [JS Object Literals; The DOM](https://suhaib-ersan.github.io/reading-notes/301/read06) |
-| read07 | [HTML Tables; JS Constructor Functions](https://suhaib-ersan.github.io/reading-notes/301/read07) |
-| read08 | [More CSS Layout](https://suhaib-ersan.github.io/reading-notes/301/read08) |
-| read09 | [Forms and JS Events](https://suhaib-ersan.github.io/reading-notes/301/read09) |
-| read10 | [Debugging](https://suhaib-ersan.github.io/reading-notes/301/read10) |
-| read11 | [Audio, Video, Images](https://suhaib-ersan.github.io/reading-notes/301/read11) |
-| read12 | [Docs for the HTML `<canvas>` Element & Chart.js](https://suhaib-ersan.github.io/reading-notes/301/read12) |
-| read13 | [Local Storage](https://suhaib-ersan.github.io/reading-notes/301/read13) |
-| read14 | [](https://suhaib-ersan.github.io/reading-notes/301/read14) |
-| read15 | [](https://suhaib-ersan.github.io/reading-notes/301/read15) |
+| read02 | [State and Props](https://suhaib-ersan.github.io/reading-notes/301/read02) |
+| read03 | [Passing Functions as Props](https://suhaib-ersan.github.io/reading-notes/301/read03) |
+| read04 | [React and Forms](https://suhaib-ersan.github.io/reading-notes/301/read04) |
+| read05 | [Putting it all together](https://suhaib-ersan.github.io/reading-notes/301/read05) |
+| read06 | [NODE.JS](https://suhaib-ersan.github.io/reading-notes/301/read06) |
+| read07 | [REST](https://suhaib-ersan.github.io/reading-notes/301/read07) |
+| read08 | [APIs](https://suhaib-ersan.github.io/reading-notes/301/read08) |
+| read09 | [FUNCTIONAL PROGRAMMING](https://suhaib-ersan.github.io/reading-notes/301/read09) |
+| read10 | [In memory storage](https://suhaib-ersan.github.io/reading-notes/301/read10) |
+| read11 | [Authentication](https://suhaib-ersan.github.io/reading-notes/301/read11) |
+| read12 | [Mongo and Mongoose](https://suhaib-ersan.github.io/reading-notes/301/read12) |
+| read13 | [CRUD](https://suhaib-ersan.github.io/reading-notes/301/read13) |
+| read14 | [Project Ideas](https://suhaib-ersan.github.io/reading-notes/301/read14) |
+| read15 | [Project Kickoff](https://suhaib-ersan.github.io/reading-notes/301/read15) |
 ## Code 401 - Advanced Software Development
 
 |401| **Go back Home** |
