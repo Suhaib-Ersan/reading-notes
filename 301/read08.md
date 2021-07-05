@@ -3,39 +3,76 @@
 * What does REST stand for?
 
 Representational State Transfer.
+
+&nbsp;
+
 * REST APIs are designed around a ____.
 
 resources
+
+&nbsp;
+
 * What is an identifer of a resource? Give an example.
 
 Objects, arrays, data ..etc
+
+&nbsp;
+
 * What are the most common HTTP verbs?
 
 GET, POST, PUT, PATCH, and DELETE.
+
+&nbsp;
+
 * What should the URIs be based on?
 
 nouns
+
+&nbsp;
+
 * Give an example of a good URI.
 
 https://adventure-works.com/orders
+
+&nbsp;
+
 * What does it mean to have a ‘chatty’ web API? Is this a good or a bad thing?
 
 It's when the API has a lot of small resources that you can request, and this is usually a bad thing.
+
+&nbsp;
+
 * What status code does a successful `GET` request return?
 
 200
+
+&nbsp;
+
 * What status code does an unsuccessful `GET` request return?
 
 406 
+
+&nbsp;
+
 * What status code does a successful `POST` request return?
 
 201 
+
+&nbsp;
+
 * What status code does a successful `DELETE` request return?
 
 204
 
+&nbsp;
+
+
 * How would you match your name using RegEx?
+
 ^Suhaib Ersan$ ? not sure
+
+&nbsp;
+
 
 
 
