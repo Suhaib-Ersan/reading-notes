@@ -1,5 +1,123 @@
 # Mongo and Mongoose
 
+## Reading
+
+Fill in the chart below with five differences between SQL and NoSQL databases:
+
+
+| SQL	| NoSQL |
+| - | - |
+| SQL databases are primarily called as Relational Databases (RDBMS) | NoSQL database are primarily called as non-relational or distributed database |
+| table based databases | document based, key-value pairs, graph databases or wide-column stores |
+| predefined schema | dynamic schema |
+| SQL ( structured query language ) | queries are focused on collection of documents |
+
+
+
+&nbsp;
+
+
+* What kind of data is a good fit for an SQL database?
+
+complex queries
+
+&nbsp;
+
+
+* Give a real world example.
+
+MySQL database
+
+&nbsp;
+
+
+* What kind of data is a good fit a NoSQL database?
+
+large data sets
+
+&nbsp;
+
+
+* Give a real world example.
+
+Hbase 
+
+&nbsp;
+
+
+* Which type of database is best for hierarchical data storage?
+
+NoSQL
+
+&nbsp;
+
+
+* Which type of database is best for scalability?
+
+NoSQL 
+
+## Videos
+
+What does SQL stand for?
+
+Structured Query Language
+
+&nbsp;
+
+
+* What is a realational database?
+
+ a type of database that stores and provides access to data points that are related to one another
+
+&nbsp;
+
+
+* What type of structure does a relational database work with?
+
+tables
+
+&nbsp;
+
+
+* What is a ‘schema’?
+
+database schema is the structure described in a formal language supported by the database management system
+
+&nbsp;
+
+
+* What is a NoSQL database?
+
+not only SQL
+
+&nbsp;
+
+
+* Howo does it work?
+
+Doesn't stand use SQL, so it's more flexible.
+
+&nbsp;
+
+
+* What is inside of a Mongo database?
+
+NoSQL 
+
+&nbsp;
+
+
+* Which is more flexible - SQL or MongoDB? and why.
+
+MongoDB, because it doesn't only use the SQL language.
+
+&nbsp;
+
+
+* What is the disadvantage of a NoSQL database?
+
+not compatible with SQL
+
 
 
 <br/><br/> 
