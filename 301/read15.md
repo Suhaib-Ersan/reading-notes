@@ -1,5 +1,5 @@
 # Project Kickoff
-yay, no readings!
+No readings!
 
 
 
