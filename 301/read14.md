@@ -1,6 +1,7 @@
 # Project Ideas
 
-
+Not sure yet, but maybe a cooking recipes website? maybe a craft selling website? a chat service? a 'reading list' kind of site? a general app that gives you things like weather/adding notes/adding other lists/news?
+will probably decide later.
 
 
 <br/><br/> 
