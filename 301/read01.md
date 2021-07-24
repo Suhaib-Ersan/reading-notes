@@ -1,6 +1,49 @@
 # Introduction to React and Components
 
 
+* What is a component?
+
+A component is a modular, portable, replaceable, and reusable set of code, that does a specific thing.
+
+&nbsp;
+
+
+* What are the charactistics of a component?
+
+Reusable, Replaceable, Not context specific, Extensible, Encapsulated and Independent.
+
+&nbsp;
+
+
+* What are the advantages of using component based architecture?
+
+Many, some of them are:
+More reliable, easily reusable, easier to develop, and usually reduced costs.
+
+&nbsp;
+
+
+* What is props short for?
+
+Properties.
+
+&nbsp;
+
+
+* How are props used in React?
+
+Usually to pass data or functions from parents to children.
+
+&nbsp;
+
+
+
+* What is the flow of props?
+
+Uni-directional flow. (one way from parent to child).
+
+
+
 
 <br/><br/> 
 <br/><br/> 
