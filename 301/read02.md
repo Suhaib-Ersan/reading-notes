@@ -1,6 +1,75 @@
 # State and Props
 
 
+## Reading
+
+&nbsp;
+
+
+* Based off the diagram, what happens first, the ‘render’ or the ‘componentDidMount’?
+
+Render.
+
+&nbsp;
+
+
+* What is the very first thing to happen in the lifecycle of React?
+
+Mounting.
+
+&nbsp;
+
+
+* Put the following things in the order that they happen: componentDidMount`, `render`, `constructor`, `componentWillUnmount`, `React Updates`
+
+`constructor` > `componentDidMount` > `React Updates` > `render` > `componentWillUnmount`
+
+&nbsp;
+
+
+* What does componentDidMount do?
+
+This method is invoked immediately after a component is mounted.
+
+
+## Videos
+
+
+
+&nbsp;
+
+
+* What types of things can you pass in the props?
+
+Data and functions.
+
+
+&nbsp;
+
+
+* What is the big difference between props and state?
+
+Props can be passed while states cannot.
+
+
+&nbsp;
+
+
+* When do we re-render our application?
+
+When we want to change what is shows to the user.
+
+
+&nbsp;
+
+
+* What are some examples of things that we could store in state?
+
+user name, user email, variables to show or hide some components. 
+
+
+
+
 
 <br/><br/> 
 <br/><br/> 
