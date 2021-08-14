@@ -71,3 +71,5 @@ Not all of them, because some callback functions need the result of something el
 
 |401| [Home](https://suhaib-ersan.github.io/reading-notes/) |
 |-|-|
+| read00 | [Get Ready for 401](https://suhaib-ersan.github.io/reading-notes/401/read00) |
+| read01 | [No de Ecosystem, TDD, CI/CD](https://suhaib-ersan.github.io/reading-notes/401/read01) |
