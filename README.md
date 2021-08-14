@@ -56,7 +56,21 @@ Assalamu alaikum, hayo 👋 My name is Suhaib Ersan, I have a bachelor in Graphi
 
 |401| **Go back Home** |
 |-|-|
-
+| read01 | [Node Ecosystem, TDD, CI/CD](https://suhaib-ersan.github.io/reading-notes/401/read01) |
+| read02 | []() |
+| read03 | []() |
+| read04 | []() |
+| read05 | []() |
+| read06 | []() |
+| read07 | []() |
+| read08 | []() |
+| read09 | []() |
+| read10 | []() |
+| read11 | []() |
+| read12 | []() |
+| read13 | []() |
+| read14 | []() |
+| read15 | []() |
 
 
 
