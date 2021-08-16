@@ -58,7 +58,7 @@ Assalamu alaikum, hayo 👋 My name is Suhaib Ersan, I have a bachelor in Graphi
 |-|-|
 | read00 | [Get Ready for 401](https://suhaib-ersan.github.io/reading-notes/401/read00) |
 | read01 | [Node Ecosystem, TDD, CI/CD](https://suhaib-ersan.github.io/reading-notes/401/read01) |
-| read02 | []() |
+| read02 | [Express](https://suhaib-ersan.github.io/reading-notes/401/read02) |
 | read03 | []() |
 | read04 | []() |
 | read05 | []() |
