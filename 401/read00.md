@@ -38,7 +38,4 @@ Just keep asking why until you get to the root of the problem, otherwise, keepin
 
 
 
-|401| [Home](https://suhaib-ersan.github.io/reading-notes/) |
-|-|-|
-| read00 | [Get Ready for 401](https://suhaib-ersan.github.io/reading-notes/401/read00) |
-| read01 | [No de Ecosystem, TDD, CI/CD](https://suhaib-ersan.github.io/reading-notes/401/read01) |
+[Go back to table of contents](https://suhaib-ersan.github.io/reading-notes/) 
