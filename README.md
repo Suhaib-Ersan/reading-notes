@@ -60,7 +60,7 @@ Assalamu alaikum, hayo 👋 My name is Suhaib Ersan, I have a bachelor in Graphi
 | read01 | [Node Ecosystem, TDD, CI/CD](https://suhaib-ersan.github.io/reading-notes/401/read01) |
 | read02 | [Express](https://suhaib-ersan.github.io/reading-notes/401/read02) |
 | read03 | [Express REST API](https://suhaib-ersan.github.io/reading-notes/401/read03) |
-| read04 | []() |
+| read04 | [Data Modeling](https://suhaib-ersan.github.io/reading-notes/401/read04) |
 | read05 | []() |
 | read06 | []() |
 | read07 | []() |
