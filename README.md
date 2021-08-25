@@ -65,7 +65,7 @@ Assalamu alaikum, hayo 👋 My name is Suhaib Ersan, I have a bachelor in Graphi
 | read06 | []() |
 | read07 | []() |
 | read08 | []() |
-| read09 | []() |
+| read09 | [Authorization/Authentication](https://suhaib-ersan.github.io/reading-notes/401/read09) |
 | read10 | []() |
 | read11 | []() |
 | read12 | []() |
