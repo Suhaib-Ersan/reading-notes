@@ -67,7 +67,7 @@ Assalamu alaikum, hayo 👋 My name is Suhaib Ersan, I have a bachelor in Graphi
 | read08 | []() |
 | read09 | [Authorization/Authentication](https://suhaib-ersan.github.io/reading-notes/401/read09) |
 | read10 | [Stacks and Queues](https://suhaib-ersan.github.io/reading-notes/401/read10) |
-| read11 | []() |
+| read11 | [Event Driven Applications](https://suhaib-ersan.github.io/reading-notes/401/read11) |
 | read12 | []() |
 | read13 | []() |
 | read14 | []() |
