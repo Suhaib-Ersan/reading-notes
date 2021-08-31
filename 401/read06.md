@@ -1,4 +1,4 @@
-#  Socket.io
+#  Authentication
 
 * Explain what a “Singleton” is (in Computer Science terms)
 
