@@ -64,12 +64,12 @@ Assalamu alaikum, hayo 👋 My name is Suhaib Ersan, I have a bachelor in Graphi
 | read05 | []() |
 | read06 | [Authentication](https://suhaib-ersan.github.io/reading-notes/401/read06) |
 | read07 | [Bearer Authorization](https://suhaib-ersan.github.io/reading-notes/401/read07) |
-| read08 | []() |
+| read08 | [Access Control (ACL)](https://suhaib-ersan.github.io/reading-notes/401/read08) |
 | read09 | [Authorization/Authentication](https://suhaib-ersan.github.io/reading-notes/401/read09) |
 | read10 | [Stacks and Queues](https://suhaib-ersan.github.io/reading-notes/401/read10) |
 | read11 | [Event Driven Applications](https://suhaib-ersan.github.io/reading-notes/401/read11) |
 | read12 | [Socket.io](https://suhaib-ersan.github.io/reading-notes/401/read12) |
-| read13 | []() |
+| read13 | [Message Queues](https://suhaib-ersan.github.io/reading-notes/401/read13) |
 | read14 | []() |
 | read15 | []() |
 
