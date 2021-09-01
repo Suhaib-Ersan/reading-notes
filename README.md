@@ -70,7 +70,7 @@ Assalamu alaikum, hayo 👋 My name is Suhaib Ersan, I have a bachelor in Graphi
 | read11 | [Event Driven Applications](https://suhaib-ersan.github.io/reading-notes/401/read11) |
 | read12 | [Socket.io](https://suhaib-ersan.github.io/reading-notes/401/read12) |
 | read13 | [Message Queues](https://suhaib-ersan.github.io/reading-notes/401/read13) |
-| read14 | []() |
+| read14 | [Event Driven Architecture](https://suhaib-ersan.github.io/reading-notes/401/read14) |
 | read15 | []() |
 
 
