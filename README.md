@@ -73,6 +73,17 @@ Assalamu alaikum, hayo 👋 My name is Suhaib Ersan, I have a bachelor in Graphi
 | read14 | [Event Driven Architecture](https://suhaib-ersan.github.io/reading-notes/401/read14) |
 | read15 | [Trees](https://suhaib-ersan.github.io/reading-notes/401/read15) |
 | read16 | [AWS: Cloud Servers](https://suhaib-ersan.github.io/reading-notes/401/read16) |
+| read17 | [AWS: S3 and Lambda](https://suhaib-ersan.github.io/reading-notes/401/read17) |
+| read18 | [AWS: API, Dynamo and Lambda](https://suhaib-ersan.github.io/reading-notes/401/read18) |
+| read19 | [AWS: Events](https://suhaib-ersan.github.io/reading-notes/401/read19) |
+| read20 | [](https://suhaib-ersan.github.io/reading-notes/401/read20) |
+| read21 | [](https://suhaib-ersan.github.io/reading-notes/401/read21) |
+| read22 | [](https://suhaib-ersan.github.io/reading-notes/401/read22) |
+| read23 | [](https://suhaib-ersan.github.io/reading-notes/401/read23) |
+| read24 | [](https://suhaib-ersan.github.io/reading-notes/401/read24) |
+| read25 | [](https://suhaib-ersan.github.io/reading-notes/401/read25) |
+| read26 | [](https://suhaib-ersan.github.io/reading-notes/401/read26) |
+| read27 | [](https://suhaib-ersan.github.io/reading-notes/401/read27) |
 
 
 
