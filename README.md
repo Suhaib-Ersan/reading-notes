@@ -76,7 +76,7 @@ Assalamu alaikum, hayo 👋 My name is Suhaib Ersan, I have a bachelor in Graphi
 | read17 | [AWS: S3 and Lambda](https://suhaib-ersan.github.io/reading-notes/401/read17) |
 | read18 | [AWS: API, Dynamo and Lambda](https://suhaib-ersan.github.io/reading-notes/401/read18) |
 | read19 | [AWS: Events](https://suhaib-ersan.github.io/reading-notes/401/read19) |
-| read26 | [](https://suhaib-ersan.github.io/reading-notes/401/read20) |
+| read26 | [Component Based UI](https://suhaib-ersan.github.io/reading-notes/401/read20) |
 | read27 | [](https://suhaib-ersan.github.io/reading-notes/401/read21) |
 | read28 | [](https://suhaib-ersan.github.io/reading-notes/401/read22) |
 | read29 | [](https://suhaib-ersan.github.io/reading-notes/401/read23) |
