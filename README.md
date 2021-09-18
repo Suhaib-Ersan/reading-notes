@@ -76,14 +76,14 @@ Assalamu alaikum, hayo 👋 My name is Suhaib Ersan, I have a bachelor in Graphi
 | read17 | [AWS: S3 and Lambda](https://suhaib-ersan.github.io/reading-notes/401/read17) |
 | read18 | [AWS: API, Dynamo and Lambda](https://suhaib-ersan.github.io/reading-notes/401/read18) |
 | read19 | [AWS: Events](https://suhaib-ersan.github.io/reading-notes/401/read19) |
-| read26 | [Component Based UI](https://suhaib-ersan.github.io/reading-notes/401/read20) |
-| read27 | [](https://suhaib-ersan.github.io/reading-notes/401/read21) |
-| read28 | [](https://suhaib-ersan.github.io/reading-notes/401/read22) |
-| read29 | [](https://suhaib-ersan.github.io/reading-notes/401/read23) |
-| read30 | [](https://suhaib-ersan.github.io/reading-notes/401/read24) |
-| read31 | [](https://suhaib-ersan.github.io/reading-notes/401/read25) |
-| read32 | [](https://suhaib-ersan.github.io/reading-notes/401/read26) |
-| read33 | [](https://suhaib-ersan.github.io/reading-notes/401/read27) |
+| read26 | [Component Based UI](https://suhaib-ersan.github.io/reading-notes/401/read26) |
+| read27 | [](https://suhaib-ersan.github.io/reading-notes/401/read27) |
+| read28 | [](https://suhaib-ersan.github.io/reading-notes/401/read28) |
+| read29 | [](https://suhaib-ersan.github.io/reading-notes/401/read29) |
+| read30 | [](https://suhaib-ersan.github.io/reading-notes/401/read30) |
+| read31 | [](https://suhaib-ersan.github.io/reading-notes/401/read31) |
+| read32 | [](https://suhaib-ersan.github.io/reading-notes/401/read32) |
+| read33 | [](https://suhaib-ersan.github.io/reading-notes/401/read33) |
 
 
 
