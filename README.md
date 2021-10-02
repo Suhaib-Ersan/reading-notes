@@ -83,7 +83,11 @@ Assalamu alaikum, hayo 👋 My name is Suhaib Ersan, I have a bachelor in Graphi
 | read30 | [Hash Tables](https://suhaib-ersan.github.io/reading-notes/401/read30) |
 | read31 | [Context API](https://suhaib-ersan.github.io/reading-notes/401/read31) |
 | read32 | [Context API - Behaviors](https://suhaib-ersan.github.io/reading-notes/401/read32) |
-| read33 | [](https://suhaib-ersan.github.io/reading-notes/401/read33) |
+| read33 | [API Integration](https://suhaib-ersan.github.io/reading-notes/401/read33) |
+| read34 | [](https://suhaib-ersan.github.io/reading-notes/401/read34) |
+| read35 | [](https://suhaib-ersan.github.io/reading-notes/401/read35) |
+| read36 | [](https://suhaib-ersan.github.io/reading-notes/401/read36) |
+| read37 | [](https://suhaib-ersan.github.io/reading-notes/401/read37) |
 
 
 
